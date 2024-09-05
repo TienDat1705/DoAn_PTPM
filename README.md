@@ -89,7 +89,7 @@
 <li>Đơn hàng của người dùng</li>
 <li>Hiện thị sản phẩm yêu thích</li>
 <li>Thông tin tài khoản</li>
- <li>Đổi mật khẩuh</li>
+ <li>Đổi mật khẩu</li>
 <li>Thông tin khách hàng</li>
 <li>Người dùng có thể đánh giá và viết nhận xét về các sản phẩm.</li>
 </ul>
